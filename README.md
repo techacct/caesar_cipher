@@ -1,2 +1,2 @@
 # caesar_cipher
-### encrypting and decrypting letter or sentences
+### encrypting and decrypting letters or sentence
